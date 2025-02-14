@@ -2,11 +2,11 @@
 **Team Members:** Oriol Fibla Sancho
 
 **How would you pitch your game in one line?**
-It's like Jump King but with the movement mechanics of Hollow Knight (endgame).
+It's like Hollow Knight but I want to give more importance to the pogo jump.
 
 **What is the key mechanic(s) that make it fun?**
-The game starts with the player only being able to jump. As you progress, you unlock additional abilities, 
-such as double jumping, dashing, or performing a pogo jump with a sword. This progression system keeps the gameplay fresh and rewarding.
+The game starts with the player only being able to jump and pogo. As you progress, you unlock additional abilities, 
+such as double jumping, dashing, wall jumping or inmortal dash. This progression system keeps the gameplay fresh and rewarding.
 
 **How does the game actually play? (Core Game Loop)**
 Players attempt to climb a vertical map with platforms. The game is designed to be challenging, requiring players to use all the 
